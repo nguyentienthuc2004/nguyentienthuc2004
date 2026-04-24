@@ -22,18 +22,34 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nguyentienthuc2004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentienthuc2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nguyentienthuc2004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=nguyentienthuc2004&show_icons=true&theme=default&hide_border=true&rank_icon=github" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=nguyentienthuc2004&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentienthuc2004&layout=compact&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentienthuc2004&layout=compact&theme=default&hide_border=true" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentienthuc2004&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nguyentienthuc2004&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nguyentienthuc2004&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=nguyentienthuc2004&theme=default&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=nguyentienthuc2004&theme=default&hide_border=true" alt="GitHub streak" />
+  </picture>
 </p>
 
 ## 🐍 Contribution
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  </picture>
 </p>
 
 
