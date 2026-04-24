@@ -14,7 +14,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,express,react,js,ts,html,css,python,postgres,mysql,mongodb,redis,docker,git,postman&perline=9" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,express,react,js,html,css,python,postgres,mysql,mongodb,redis,docker,git,postman&perline=9" alt="Tech stack icons" />
 </p>
 
 <p align="center">
