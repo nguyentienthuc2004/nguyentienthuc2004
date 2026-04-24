@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thuc Nguyen
+# 👋 Hi, I'm Nguyen Tien Thuc
 
 <p align="center">
 	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00BFFF&center=true&vCenter=true&width=760&lines=Final-year+Software+Engineering+Student+at+PTIT;Java+Developer+in+progress;Passionate+about+Backend+and+System+Design" alt="Typing SVG" />
