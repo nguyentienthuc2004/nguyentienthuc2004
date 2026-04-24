@@ -17,12 +17,6 @@
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,express,react,js,html,css,python,postgres,mysql,mongodb,redis,docker,git,postman&perline=9" alt="Tech stack icons" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/AI-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Cloud-Azure_Service_Bus-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Service Bus" />
-</p>
-
 
 ## 📊 GitHub Stats
 
