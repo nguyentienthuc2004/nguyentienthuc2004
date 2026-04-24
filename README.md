@@ -4,6 +4,7 @@
 	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00BFFF&center=true&vCenter=true&width=760&lines=Final-year+Software+Engineering+Student+at+PTIT;Java+Developer+in+progress;Passionate+about+Backend+and+System+Design" alt="Typing SVG" />
 </p>
 
+
 ## 🚀 About Me
 
 - 🎓 Final-year student at Posts and Telecommunications Institute of Technology (PTIT), Vietnam
@@ -27,6 +28,12 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nguyentienthuc2004&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 </p>
 
 
