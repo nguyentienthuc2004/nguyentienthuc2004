@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Final-year student at Posts and Telecommunications Institute of Technology (PTIT), Vietnam
+- 🎓 Final-year student at Posts and Telecommunications Institute of Technology (PTIT)
 - 🧑‍💻 Major: Software Engineering
 - ☕ Current direction: Java Developer
 - 💻 Passionate about Backend Development and System Design
