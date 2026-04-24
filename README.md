@@ -58,6 +58,3 @@
 - 📫 Email: nguyentienthuc0103@gmail.com
 - 💼 GitHub: https://github.com/nguyentienthuc2004
 
----
-
-⭐️ From nguyentienthuc2004
