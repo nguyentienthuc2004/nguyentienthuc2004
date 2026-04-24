@@ -30,10 +30,10 @@
   <img src="https://streak-stats.demolab.com?user=nguyentienthuc2004&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-## 🐍 Contribution Snake
+## 🐍 Contribution
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </p>
 
 
